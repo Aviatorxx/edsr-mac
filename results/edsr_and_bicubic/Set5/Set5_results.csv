@@ -1,0 +1,6 @@
+filename,bicubic_psnr,bicubic_ssim,edsr_psnr,edsr_ssim,comparison_path
+baby.png,30.51413003570124,0.8426973735546364,42.59605407714844,0.9965420419802835,results/edsr_and_bicubic/Set5/baby_comparison.png
+bird.png,28.426218321988607,0.8597974439807801,43.13361740112305,0.9919292999931263,results/edsr_and_bicubic/Set5/bird_comparison.png
+butterfly.png,19.74118812428449,0.7184104598063387,37.96704864501953,0.9933961856123606,results/edsr_and_bicubic/Set5/butterfly_comparison.png
+head.png,30.078733672835412,0.701769222029102,36.043155670166016,0.9478427724163199,results/edsr_and_bicubic/Set5/head_comparison.png
+woman.png,24.144495627652116,0.826869202197841,41.822105407714844,0.9967988788065338,results/edsr_and_bicubic/Set5/woman_comparison.png

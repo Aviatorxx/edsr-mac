@@ -1,0 +1,4 @@
+Method,Mean PSNR,Std PSNR,Mean SSIM,Std SSIM
+Bicubic,24.64,3.51,0.7129,0.1235
+EDSR,38.11,3.64,0.9773,0.0235
+Improvement,13.47,3.99,0.2645,0.1171
